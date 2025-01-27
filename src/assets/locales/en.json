@@ -101,7 +101,7 @@
     "tagline": "Watch your favorite shows and movies for free with no ads ever! (っ'ヮ'c)"
   },
   "global": {
-    "name": "Flixbi",
+    "name": "sudo-flix",
     "pages": {
       "about": "About",
       "dmca": "DMCA",
@@ -109,7 +109,7 @@
       "support": "Support",
       "login": "Login",
       "onboarding": "Setup",
-      "pagetitle": "{{title}} - Flixbi",
+      "pagetitle": "{{title}} - sudo-flix",
       "register": "Register",
       "settings": "Settings",
       "jip": "Jip"
